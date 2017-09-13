@@ -156,4 +156,4 @@ Please see [LICENSE] for details.
    [Getting Started]: <http://gruntjs.com/getting-started>
    [Grunt]: <http://gruntjs.com/>
    [GruntFile]: <http://gruntjs.com/sample-gruntfile>
-   [LICENSE]: <https://github.com/hdhami/grunt-auto-versioning/blob/master/LICENSE>
+   [LICENSE]: <https://github.com/naukri-engineering/grunt-auto-versioning/blob/master/LICENSE>
