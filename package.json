@@ -1,7 +1,7 @@
 {
   "name": "grunt-auto-versioning",
   "description": "this grunt plugin automates versioning of modified files and backs-up the files as well.This is integrated with Git and quite helpful for the versioning of static resources which needs to versioned to remove caching on CDN servers.",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "homepage": "https://github.com/naukri-engineering",
   "author": {
     "name": "Naukri FED",
